@@ -1,6 +1,6 @@
 <template>
   <footer class="foot">
-    <img src="../../assets/logo.png"/>
+    <img src="../assets/logo.png"/>
     <div class="email">
       <p>联系我：<a href="mailto:xzszsd@qq.com">xzszsd@qq.com</a></p>
       <a href="https://github.com/Shallow-Xu/ppc"><p>Fork me on GitHub</p></a>
